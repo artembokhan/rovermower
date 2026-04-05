@@ -2,7 +2,10 @@
 
 ## Mower
 Flail Mower XFM-1200
+https://xator.ru/catalog/kosilka-izmelchitel-na-farkop
+
 ATV120
+https://www.proftehnika.ru/catalog/gazonokosilka-pritsepnaya-benzinovaya/
 
 ## Model for Testing
 Wave Rover
